@@ -1,4 +1,4 @@
-# Image-Search-IngineProject Description
+# Image-Search-EngineProject Description
 
 The main features of the project include:
 
